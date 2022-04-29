@@ -1,0 +1,33 @@
+.event label {
+      display: block;
+      color:
+            #232323;
+            font-size: 18px;
+}
+
+.input-fled input , textarea {
+      Width: 450px;
+      Height: 40px;
+      border: 1px solid #C9C9C9;
+      background-color: #fff;
+      border-radius: 8px;
+      padding: 0px 10px;
+}
+.input-fled textarea{
+      Width: 450px;
+      Height: 270px;
+      border: 1px solid #C9C9C9;
+      background-color: #fff;
+      border-radius: 8px;
+      padding: 0px 10px;
+
+}
+
+.submit{
+      border: none;
+      background-color: #3F90FC  ;
+      color: #ffffff;
+      border-radius: 10px;
+      padding: 10px 20px;
+    
+}

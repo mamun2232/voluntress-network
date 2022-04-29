@@ -1,0 +1,13 @@
+.service-img img {
+     width: 100%;
+}
+
+.service-name {
+      height: 80px;
+      background-color: #3F90FC;
+      color: #ffffff;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+     
+}

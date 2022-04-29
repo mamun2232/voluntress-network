@@ -1,0 +1,21 @@
+.login {
+      Width: 570px;
+      Height: 457px;
+      background-color: #fff;
+      border: 1px solid #ABABAB;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+}
+
+.google-login {
+      Width: 457px; 
+      Height: 51px;
+      border: 1px solid 
+      #C7C7C7;
+      border-radius: 10px;
+    
+}
+.google-login span{
+      font-size: 20px;
+}

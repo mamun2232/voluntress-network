@@ -1,0 +1,19 @@
+.navbar-nav .nav-link{
+      color: #0B0B0B !important;
+      font-weight: 600;
+      font-size: 18px;
+      margin-left: 12px !important;
+
+}
+.nav-img img{
+      width: 200px;
+      height: 60px;
+}
+
+.logOut{
+      border: none;
+      background-color: #3F90FC  ;
+      color: #ffffff;
+      border-radius: 10px;
+      margin-left: 15px;
+}

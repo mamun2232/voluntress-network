@@ -1,0 +1,37 @@
+.register-form {
+      Width: 570px;
+      Height: 591px;
+      border: 1px solid #ABABAB;
+      display: flex;
+      justify-content: center;
+      background-color: #fff;
+}
+
+.input-grup input {
+      Width: 462px;
+       Height: 40px;
+       border-top: none;
+       border-left: none;
+       border-right: none;
+       border-bottom: 1px solid 
+       #ABABAB;
+       padding: 5px 10px;
+       color: 
+       #000000;
+       width: 600;
+}
+.table-delete {
+      background-color: #FF444A;
+      border-radius: 20px;
+      
+      height: 30px;
+      width: 50px;
+
+}
+.table-delete img{
+      height: 30px;
+      width: 30px;
+      padding: 5px;
+      
+      
+}
